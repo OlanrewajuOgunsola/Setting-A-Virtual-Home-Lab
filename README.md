@@ -15,7 +15,7 @@ In this Project I had learned how to create a cybersecurity home-lab from scratc
 #### Here's a fragment of my detail- paper:
 ##
 
-![Screenshot 2024-02-14 005729]()
+![Screenshot 2024-02-14 005729](https://github.com/OlanrewajuOgunsola/Setting-A-Virtual-Home-Lab/blob/main/images/home%20lab.PNG)
 
 
 ##
@@ -24,7 +24,7 @@ In this Project I had learned how to create a cybersecurity home-lab from scratc
  
  ##
 
-![Screenshot 2024-01-03 191635](https://github.com/luzritacco/Cybersecurity-Home-Lab/assets/151267325/0022d569-361b-457e-8f87-cc7ddd4f88e6)
+![Screenshot 2024-01-03 191635](https://github.com/OlanrewajuOgunsola/Setting-A-Virtual-Home-Lab/blob/main/images/home%20lab.PNG)
 
 ##
 <h3 align="center"> Setting and preparing the Virtual Home-Lab
