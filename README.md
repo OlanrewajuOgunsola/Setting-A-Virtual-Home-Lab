@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 <h3> Overview </h3>
-<p> The goal of this project is to create a small Homelab environment used to practice and and improve my skills as a Cybersecurity Analyst. I will be following a guide made by Cyberwox Academy that can be found <a href = "https://cyberwoxacademy.com/building-a-cybersecurity-homelab-for-detection-monitoring/">here</a>. With that said, this writeup will still be in my own words and including my own experiences and learning process throughout the project.</p>
+<p> The goal of this project is to create a small Homelab environment used to practice and and improve my skills as a Cybersecurity Analyst.</p>
 
 <h3> Content </h3>
 <ul>
